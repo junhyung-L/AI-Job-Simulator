@@ -143,6 +143,3 @@ To run this project locally, follow these steps:
    ```bash
    npm run dev
    ```
-
----
-*Refactored and polished to meet professional software engineering standards for the [Data Analyst Portfolio](https://github.com/junhyung-L/Portfolio).*
